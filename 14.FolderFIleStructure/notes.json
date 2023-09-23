@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "123",
+    "title": "CSS",
+    "description": "CSS is Cascading Style Sheet",
+    "created_at": "2-05-2023",
+    "updated_at": "2-05-2023",
+    "important": false,
+    "priority": 1
+  },
+  {
+    "_id": "456",
+    "title": "HTML",
+    "description": "HTML is Hyper Text Markup Language",
+    "created_at": "5-01-2023",
+    "updated_at": "18-10-2023",
+    "important": false,
+    "priority": 2
+  },
+  {
+    "_id": "789",
+    "title": "JavaScript",
+    "description": "JavaScript is a universal programming language",
+    "created_at": "1-08-2023",
+    "updated_at": "28-08-2023",
+    "important": false,
+    "priority": 3
+  },
+  {
+    "_id": "4f9e41bb-268c-4d9a-9f1f-c6e7e84cbcd4",
+    "title": "NodeJS",
+    "description": "NodeJS is a single threaded, cross platform, non-blocking I/O Module and event drivers",
+    "created_at": "1-08-2023",
+    "updated_at": "28-08-2023",
+    "important": false,
+    "priority": 4
+  }
+]
